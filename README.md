@@ -7,3 +7,6 @@ This app features user login/authentication by connection to a Parse database. I
 
 ## Usage
 The project should be opened in Android Studio and built by Gradle. Then, it can be run on an Android emulator or Android phone. 
+
+## Tutorial
+[The link to a tutorial on how to use Shelter can be found here.](https://youtu.be/R_jtUltarK4)
